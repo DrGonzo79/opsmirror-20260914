@@ -1,0 +1,8 @@
+[
+ {"id":"SUP-1842","customer":"Northstar Bikes","amount":240,"reason":"Duplicate annual charge","managerApproved":false,"evidenceAttached":true,"responseHours":5,"agent":"Maya"},
+ {"id":"SUP-1839","customer":"Fable Goods","amount":89,"reason":"Damaged shipment","managerApproved":false,"evidenceAttached":false,"responseHours":31,"agent":"Theo"},
+ {"id":"SUP-1834","customer":"Kite & Key","amount":40,"reason":"","managerApproved":false,"evidenceAttached":false,"responseHours":3,"agent":"Maya"},
+ {"id":"SUP-1828","customer":"Copperline","amount":180,"reason":"Service outage credit","managerApproved":true,"evidenceAttached":true,"responseHours":27,"agent":"Iris"},
+ {"id":"SUP-1817","customer":"Atlas Coffee","amount":129,"reason":"Wrong item received","managerApproved":false,"evidenceAttached":true,"responseHours":8,"agent":"Theo"},
+ {"id":"SUP-1811","customer":"Harbor House","amount":310,"reason":"Contract exception","managerApproved":true,"evidenceAttached":false,"responseHours":12,"agent":"Iris"}
+]
